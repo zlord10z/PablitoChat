@@ -9,7 +9,7 @@ It's possible to send and open URL (you can paste link like example.com or www.e
 
 Names Server, Host and Room as well as Client and Guest will be used synonymously.
 This app use client-server architecture. With this app its possible to either create room (server role and this server client role simultaneously) or join other room (client role)
-App is using two ports: 50008 (for multicast) and 50007. Multicast is used to broadcast ip address and server name to other clients in same LAN. It's allows to display Room in "availble servers (LAN)" window in clients app. Beside multicast, it's still possible to join room by direct connect (enter room ip address manualy).
+App is using two ports: 50008 (for multicast) and 50007. Multicast is used to broadcast an ip address and server name to other clients in same LAN. It's allows to display Room in "availble servers (LAN)" window in clients app. Beside multicast, it's still possible to join room by direct connect (enter room ip address manualy).
 
 
 To do:
