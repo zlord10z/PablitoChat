@@ -202,7 +202,7 @@ def emoticons():
     scrollbar_emoticons.config(command = listbox_emoticons.yview)
 
     #emotikons from text file
-    text_file = open('emoticons.txt','r')
+    text_file = open('emoticons.txt','r',encoding="utf-8")
     text_file = text_file.read()
     text_file = text_file.split("#")
     for i in range(len(text_file)):
