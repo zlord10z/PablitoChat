@@ -13,10 +13,8 @@ App is using two ports: 50008 (for multicast) and 50007. Multicast is used to br
 
 
 To do:
--RSA and AES crypto
 -language text files which could be easily translated by anyone (and translate app to english)
--pictures sending
--standalone server
+
 
 
 
