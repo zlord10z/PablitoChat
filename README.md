@@ -1,6 +1,4 @@
 # PablitoChat
-WARNING!
-I'm still working on crypthography and this version sends MSGs UNENCRYPTED, so any sniffer in your LAN can EASILY EAVESDROPS YOUR CONVERSATION!
 
 Instant messaging python app. With this app you can create your own chat room or join to room created by somebody else.
 App is working only in LAN, but you can still use hamachi or some other VPN app. 
